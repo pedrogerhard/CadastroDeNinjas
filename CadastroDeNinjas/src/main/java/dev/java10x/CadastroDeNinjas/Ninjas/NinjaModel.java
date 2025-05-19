@@ -12,8 +12,7 @@ import lombok.NoArgsConstructor;
 // Table gera uma tabela
 @Table(name = "tb_cadastro")
 @Data
-@NoArgsConstructor
-@AllArgsConstructor
+@NoArgsConstructor @AllArgsConstructor
 public class NinjaModel {
 
     @Id
