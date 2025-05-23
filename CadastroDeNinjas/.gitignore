@@ -33,4 +33,4 @@ build/
 .vscode/
 .env
 
-CadastroDeNinjasDb.trace.db
+data/CadastroDeNinjasDb.trace.db
